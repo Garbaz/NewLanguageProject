@@ -1,5 +1,5 @@
 ---
-title: Rootpage
+title: New Language Project
 ---
 
 ## Goal
