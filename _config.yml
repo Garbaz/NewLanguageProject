@@ -3,6 +3,11 @@ author:
   name: Garbaz
   email: garbaz@t-online.de
 description: A made up language
+header_pages: 
+  - ideas.md
+  - morphemes.md
+  - grammar.md
+  - phonology.md
 
 remote_theme: jekyll/minima
 minima:
