@@ -1,7 +1,9 @@
-http://web.phonetik.uni-frankfurt.de/upsid_info.html
-https://phoible.org/parameters
+---
+title: Phonology
+---
 
-consonants:
+### Consonants:
+```
 m
 k
 j ?
@@ -14,19 +16,22 @@ s
 t / d ?
 l
 f
+```
 
-vowels:
+### Vowels:
+```
 i
 a
 u
 e
 o ?
+```
 
 ma - ki - ho - se
 
-Syllable structure:
+### Syllable structure:
 
-[mkbwhgnsdlf] - [aiueo] [aioeo])
+`[mkbwhgnsdlf] - [aiueo] [aioeo])`
 
 oe?? ae 
 
@@ -39,23 +44,29 @@ wu
 we
 
 
-ORROROROR:
+_ORROROROR:_
 
-[mkjbwhgnsdlf] - [aiue] - [aiue]
+`[mkjbwhgnsdlf] - [aiue] - [aiue]`
 
 -> 192 combinations
 
-keymap: 
+### keymap:
+```
 [m][b][g][d][  ][  ][a][i][u][e]
  [k][w][n][l][  ][  ][  ][  ][  ]
   [j][h][s][f][  ][  ][  ]
-  
+```
 (??? bad moving-about-balance between left right hands ._.)
 
+```
 [m][b][g][d][  ][a][i][u][e][  ]
  [k][w][n][l][  ][j][h][s][f]
   [  ][  ][  ][  ][  ][  ][  ]
-  
+```
 (??? Not as pretty :/ Not alternating between hands)
 
 
+## Links
+
+- http://web.phonetik.uni-frankfurt.de/upsid_info.html
+- https://phoible.org/parameters

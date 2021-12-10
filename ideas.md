@@ -1,3 +1,7 @@
+---
+title: Ideas
+---
+
 - Japanese grammar structure (actor, target, action, etc.)
 - Single word type -> Suffix for verb, suffix for identifier, suffix for category, suffix for modifier
 - syllable based alphabet (which sounds? -> clearly distinct! -> no fixed pronunciation)
