@@ -1,3 +1,5 @@
-# New Language Project
+# Main
 
-hello world
+```rust
+println!("Hello World!");
+```
