@@ -1,0 +1,9 @@
+up, good, positive
+down, bad, negative
+forward
+backwards
+reference point (より)
+life
+death, static?
+all
+purpose
