@@ -1,7 +1,7 @@
 title: New Language Project (WT)
 author:
   name: Garbaz
-  email: garbaz@t-online.de
+  #email: garbaz@t-online.de
 description: A made up language
 header_pages: 
   - ideas.md
@@ -15,3 +15,4 @@ minima:
   date_format: "%Y-%m-%d"
   social_links:
     github: "Garbaz"
+    discord: "Garbaz#2585"
