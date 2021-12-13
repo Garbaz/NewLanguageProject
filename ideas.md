@@ -24,3 +24,5 @@ title: Ideas
 - OR N^3 with initial/middle/final (with perhaps empty final [i.e. SPACE]).
 
 - Use subset of Hanzi (radicals??) as characters (->> no custom font needed!)
+
+- Built-in tone-indicators / other indicators (e.g. "This is an observation, no need for a reply.", "This is an invitation to share your opinion" (呢/ね/net-wa-ja))
