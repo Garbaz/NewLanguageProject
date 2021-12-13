@@ -13,3 +13,5 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   date_format: "%Y-%m-%d"
+  social_links:
+    github: "https://github.com/Garbaz/NewLanguageProject"
