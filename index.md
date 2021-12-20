@@ -8,3 +8,12 @@ The goal is to create an oligosynthetic language, written logographically and wi
 
 ## Slicing Meaning
 
+All words should be composed up of a number or core morphemes, each of which is represented by a logogram & unique syllable. Therefore the total number of morphemes in the language should not be too large. Maybe a few hundred.
+
+The main challenge hereby is to find a good Slicing Of Meaning, i.e. a way to divide the continuum of all possible concepts into a fixed number of general categories, and derive the core morphemes from that.
+
+For that a few approaches come to my mind:
+
+1) Take an existing word embedding from machine learning, and think of some mathematical way to transform it into what we want
+2) Spin our own neural net to learn the categories directly
+3) Use statistical analysis of some sort to find commonalities between the uses of certain words, and classify by strength of correlation

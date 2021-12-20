@@ -25,4 +25,6 @@ title: Ideas
 
 - Use subset of Hanzi (radicals??) as characters (->> no custom font needed!)
 
-- Built-in tone-indicators / other indicators (e.g. "This is an observation, no need for a reply.", "This is an invitation to share your opinion" (呢/ね/net-wa-ja))
+- Built-in tone-indicators / other indicators. E.g. "This is an observation, no need for a reply.", "This is an invitation to share your opinion" (呢/ね/net-wa-ja), sarcasm (/s), etc.
+
+- Descriptors of degree (強<->弱) vs. of state (藍, 紅). Only one word for the former, with degree prefix ({weak}=不強, {strong}=很強)
