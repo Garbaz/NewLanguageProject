@@ -1,3 +1,3 @@
 # NewLanguageProject
 
-See the [website](https://garbaz.github.io/NewLanguageProject/) for information.
+_([website](https://garbaz.github.io/NewLanguageProject/))_
