@@ -14,6 +14,6 @@ The main challenge hereby is to find a good Slicing Of Meaning, i.e. a way to di
 
 For that a few approaches come to my mind:
 
-1) Take an existing word embedding from machine learning, and think of some mathematical way to transform it into what we want
-2) Spin our own neural net to learn the categories directly
-3) Use statistical analysis of some sort to find commonalities between the uses of certain words, and classify by strength of correlation
+* Take an existing word embedding from machine learning, and think of some mathematical way to transform it into what we want
+* Spin our own neural net to learn the categories directly
+* Use statistical analysis of some sort to find commonalities between the uses of certain words, and classify by strength of correlation
